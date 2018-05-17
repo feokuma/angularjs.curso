@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "**/.pyc": true,
+    "**/*.pyc": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true
+  },
+  "editor.fontSize": 12,
+  "python.linting.enabled": false,
+  "workbench.colorTheme": "Visual Studio Dark",
+  "window.zoomLevel": -0.2,
+  "terminal.integrated.fontSize": 12
+}
